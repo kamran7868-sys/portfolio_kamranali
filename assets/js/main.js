@@ -100,7 +100,13 @@
 
   /* ---------- Typewriter effect ---------- */
   const typedEl = document.getElementById('typed');
-  const roles = ['Full Stack Web Developer', 'WordPress Developer', 'SEO Specialist'];
+  const roles = [
+    'Full Stack Web Developer',
+    'ERP Software Developer',
+    'WordPress Developer',
+    'SEO Specialist',
+    'AI-Powered Web Developer'
+  ];
   let roleIndex = 0;
   let charIndex = 0;
   let deleting = false;
